@@ -1,0 +1,32 @@
+.div-block{
+    width: 150px;
+    height: 150px;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.pierwszy{
+    background-color: #dc143c;
+    transition: width 2s;
+}
+.pierwszy:hover{
+    width: 300px;
+    cursor: pointer;
+}
+.drugi{
+    background-color: #35dc14;
+    transition: height 2s;
+}
+.drugi:hover{
+    height: 300px;
+    cursor: pointer;
+}
+.trzeci{
+    background-color: #9314dc;
+    transition: all 2s;
+}
+.trzeci:hover{
+    height: 300px;
+    width: 300px;
+    cursor: pointer;
+}
