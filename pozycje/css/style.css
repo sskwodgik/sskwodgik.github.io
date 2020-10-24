@@ -1,0 +1,21 @@
+.zewnetrzny{
+    width: 400px;
+    height: 400px;
+    border: 10px solid #666360;
+    background-color: #a6a9b6;
+    position: relative;
+}
+.wewnetrzny{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+}
+.szary{
+    right: 0px;
+    background-color: #e4e4e4;
+}
+.pomaranczowy{
+    left: 0px;
+    top: 200px;
+    background-color: #ff912e;
+}
