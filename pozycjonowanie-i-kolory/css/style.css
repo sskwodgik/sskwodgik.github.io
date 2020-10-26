@@ -1,17 +1,12 @@
 div{
     display: inline-block;
     position: relative;
-    
 }
 
 .kontener{
     width: 460px;
     padding: 5px;
-
     border: 2px solid grey;
-
-
-
 }
 .rozmiar{
     width: 150px;
@@ -22,10 +17,9 @@ div{
     border-radius: 50%;
     width: 80px; 
     height: 80px; 
-    margin-top: 20%;
-    margin-left: 20%;
-    position: relative;
-
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 .czerwony{
     background-color: red;  
