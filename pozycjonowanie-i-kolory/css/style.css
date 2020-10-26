@@ -1,0 +1,56 @@
+div{
+    display: inline-block;
+    position: relative;
+    
+}
+
+.kontener{
+    width: 460px;
+    padding: 5px;
+
+    border: 2px solid grey;
+
+
+
+}
+.rozmiar{
+    width: 150px;
+    height: 150px;
+}
+.kula{
+    border: 2px solid #242020;
+    border-radius: 50%;
+    width: 80px; 
+    height: 80px; 
+    margin-top: 20%;
+    margin-left: 20%;
+    position: relative;
+
+}
+.czerwony{
+    background-color: red;  
+}
+.zielony{
+    background-color: #12c72a;
+}
+.rozowy{
+    background-color: #ff008c;
+}
+.pomaranczowy{
+    background-color: #ffa600;
+}
+.czarny{
+    background-color: #000000;
+}
+.fioletowy{
+    background-color: #b700ff;
+}
+.zolty{
+    background-color: #fbff00;
+}
+.niebieski{
+    background-color: #0077ff;
+}
+.sloneczny{
+    background-color: #eeff00;
+}
