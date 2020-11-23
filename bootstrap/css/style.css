@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+i.fab{
+    color: rgb(236, 147, 74);
+    line-height: inherit;
+}
+.col-content{
+    background-color: rgba(85, 85, 85, 0.2);
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    line-height: 150px;
+    position: relative;
+    margin: 0 auto;
+}
