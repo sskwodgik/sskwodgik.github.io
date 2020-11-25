@@ -1,0 +1,29 @@
+section, footer{
+    padding: 50px 0px;
+}
+.img{
+    background-position: center;
+    background-size: cover;
+}
+.showcase{
+    padding: 0px;
+}
+.text{
+    padding: 50px;
+}
+.person{
+    max-width: 180px;
+}
+.newsletter{
+    background-image: url('../img/slider-1.jpg');
+    background-position: center;
+    background-size: cover;
+}
+@media (max-width: 768px){
+    .img{
+        min-height: 100px;
+    }
+    .person{
+        margin-bottom: 50px;
+    }
+}
