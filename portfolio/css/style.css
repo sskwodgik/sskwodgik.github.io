@@ -45,6 +45,7 @@ hr{
 }
 ul{
     margin: 0;
+    padding-left: 0px;
 }
 .menu{
     text-align: center;
@@ -156,6 +157,7 @@ form input[type=submit]{
     font-size: 3em;
     color: #007bff;
     cursor: pointer;
+    padding: 10px;
 }
 footer{
     background-color: #f2f1ed;
